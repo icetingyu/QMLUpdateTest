@@ -8,6 +8,6 @@ Don't forget to check "Send QML files to device"
 Window > Preferences > BlackBerry, select Send QML files to device on save.
 
 
-For more information, please chekc the website.
+For more information, please check the website.
 
 https://developer.blackberry.com/native/reference/cascades/bb__cascades__developmentsupport.html
