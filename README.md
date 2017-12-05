@@ -1,7 +1,7 @@
-QMLUpdateTest
+QMLUpdateTest [BlackBerry 10 Cascades]
 =============
 
- qml update Test by DevelpmentSupport Class in BlackBerry Cascades 10.2 SDK and with the Momentics IDE 2.0
+Qml update Test by DevelpmentSupport Class in BlackBerry Cascades 10.2 SDK and with the Momentics IDE 2.0
 
 Don't forget to check "Send QML files to device"
 
